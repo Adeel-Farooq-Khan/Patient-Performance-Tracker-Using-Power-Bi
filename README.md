@@ -1,1 +1,2 @@
-# Patient-Performance-Tracker-Using-Power-Bi
+I have  developed a powerful Power BI dashboard that provides a comprehensive overview of patient information, including admission and discharge dates, follow-up appointments, billing details, feedback volume per doctor, and more. With this user-friendly tool, healthcare professionals can efficiently track patient data and make informed decisions. Say goodbye to manual tracking and hello to streamlined patient management. Connect with me to learn how this dashboard can transform your healthcare practice!
+#PowerBI #HealthcareAnalytics #PatientManagement  # Patient-Performance-Tracker-Using-Power-Bi
